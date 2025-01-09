@@ -1,0 +1,6 @@
+pretrained_chatbot_model/config.json
+pretrained_chatbot_model/model.safetensors
+pretrained_chatbot_model/special_tokens_map.json
+pretrained_chatbot_model/tokenizer_config.json
+pretrained_chatbot_model/training_args.bin
+pretrained_chatbot_model/vocab.txt
