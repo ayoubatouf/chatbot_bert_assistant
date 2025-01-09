@@ -14,7 +14,7 @@ uvicorn chatbot_api:app --reload
 ```
 Once the server is running, open the `index.html` file located in the `/api/gui` directory to access the chatbot interface.
 
-![](screenshot.jpg)
+![](screenshot.png)
 
 ## Requirements
 
